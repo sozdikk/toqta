@@ -1,1 +1,1 @@
-sozdikk.github.io/toqta
+#toqta
